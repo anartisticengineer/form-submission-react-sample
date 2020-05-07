@@ -1,3 +1,10 @@
+<h1>Sample Submission Form Project</h1>
+<h2>Built with React & Bootstrap v4.4</h2>
+<p>This is a sample project that serves as an application to my recent knowledge of React and Bootstrap, as well as training in front-end development. This project should serve two main purposes.</p>
+<ol>
+    <li>A submission form where you will submit your first and last name.</li>
+    <li>Upon clicking 'Submit', it should then render the confirmation screen with your name displayed</li>
+</ol>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
