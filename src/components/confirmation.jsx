@@ -9,7 +9,7 @@ const ConfirmScreen = (props) => {
           <div className="card-body">
             <h4 className="card-title">
               <i class="fab fa-check-circle    "></i>Thank you,
-              {" " + props.firstName}!
+              {" " + props.firstName + " " + props.lastName}!
             </h4>
             <p className="card-text">
               Your submission was successfully recieved.
